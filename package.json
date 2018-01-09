@@ -1,0 +1,9 @@
+{
+    "name": "allies-geocoding-example",
+    "author": "Stephen Keable from Allies Computing",
+    "description" : "Simple demo which passes postcode to the API and returns latitude and longitude.",
+    "version": "0.0.1",
+    "dependencies": {
+        "request": "^2.81.0"
+    }
+}
